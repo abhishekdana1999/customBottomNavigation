@@ -1,6 +1,8 @@
-# animatedList
+# Custom Bottom Navigation
 
-A new Flutter project.
+A Custom Bottom Navigation 
+
+[App Image](https://github.com/abhishekdana1999/customBottomNavigation/blob/master/Screenshot_2021_0609_112414.png)
 
 ## Getting Started
 
